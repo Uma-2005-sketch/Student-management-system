@@ -1,0 +1,88 @@
+********* name:UMA SHANKAR REDDY ***********
+********* Reg no:2262265 **************
+********* class & sec:1BTCHE-2B **********
+********** Subject:COMPUTER PROGRAMMING(mini project) *************
+########## CHRIST UNIVERSITY ##############
+################### STUDENT ADMISSIONS MANAGEMENT ##################
+Enter the no.of students (max 5): 2
+
+Enter the option
+1. Read Details
+2. Calculate Marks
+3. Print Details
+4. Binary Search
+5. Exit
+1
+
+Enter details for student 1:
+Enter the name of the student: uma
+Enter the student Regno: 48182122
+Enter the marks in ENG (out of 100): 97
+Enter the marks in MATHS (out of 100): 99
+Enter the marks in COMP_PRG (out of 100): 95
+
+Enter details for student 2:
+Enter the name of the student: reddy
+Enter the student Regno: 48203253
+Enter the marks in ENG (out of 100): 95
+Enter the marks in MATHS (out of 100): 97
+Enter the marks in COMP_PRG (out of 100): 98
+
+Data written to file successfully
+
+Choose another option? (y/n): y
+
+Enter the option
+1. Read Details
+2. Calculate Marks
+3. Print Details
+4. Binary Search
+5. Exit
+2
+
+TOTAL AND AVERAGE MARKS OF THE STUDENTS
+Average calculations written to file successfully
+
+Choose another option? (y/n): y
+
+Enter the option
+1. Read Details
+2. Calculate Marks
+3. Print Details
+4. Binary Search
+5. Exit
+3
+
+...........Print Student Details........
+Studentname     Regno   ENG     MATHS   COMP_PRG        Total   Average Grade
+uma     48182122        97      99      95      291     97.00   Grade: A (Passed - Excellent)
+reddy   48203253        95      97      98      290     96.67   Grade: A (Passed - Excellent)
+
+Choose another option? (y/n): y
+
+Enter the option
+1. Read Details
+2. Calculate Marks
+3. Print Details
+4. Binary Search
+5. Exit
+4
+
+Enter the registration number to be searched: 48203253
+48203253 found at position 1
+Student found with Regno: 48203253
+
+Choose another option? (y/n): y
+
+Enter the option
+1. Read Details
+2. Calculate Marks
+3. Print Details
+4. Binary Search
+5. Exit
+5
+Exiting program...
+
+--------------------------------
+Process exited after 128 seconds with return value 0
+Press any key to continue . . .
