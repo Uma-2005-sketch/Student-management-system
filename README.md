@@ -13,3 +13,5 @@ A console-based application developed in C during my 1st semester (2020) that:
 - File I/O operations
 
 ## How to Run
+gcc student_management.c -o student_system
+./student_system
